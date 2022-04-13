@@ -1,6 +1,11 @@
-.container{
+.post{
+    
+    justify-content: center;
     color:rgb(96, 131, 0);
     text-align: center;
+    border: solid 1px rgb(96, 131, 0);
+    width:90%;
+    margin: 1em;
 }
 .bg{
     background-color: rgb(203, 233, 233);
