@@ -12,5 +12,8 @@
 }
 
 .header{
-    color: red;
+    font-size: 4ch;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+    border: solid 1px #70e20683;
 }
